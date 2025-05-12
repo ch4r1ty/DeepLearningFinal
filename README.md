@@ -15,15 +15,6 @@ The repository is organized as follows:
   - Task 4: Patch-based attacks
   - Task 5: Transferring attacks to DenseNet-121
 
-## Project Overview
-
-This project explores adversarial attacks on deep neural networks, specifically targeting ResNet-34 trained on ImageNet. We implement three types of attacks:
-1. Fast Gradient Sign Method (FGSM)
-2. Projected Gradient Descent (PGD)
-3. Patch-based Attack
-
-We also investigate the transferability of these attacks to DenseNet-121.
-
 ## Team Members
 
 - Abby Zhang (jz7233@nyu.edu)
